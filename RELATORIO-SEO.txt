@@ -1,0 +1,31 @@
+SEO — RELATÓRIO DE ENTREGA | fabiafialho.site
+
+Base: ZIP enviado em 15/10/2026; pesquisa de palavras-chave Google Ads (out/2025–set/2026).
+
+ALTERAÇÕES REALIZADAS
+- Atualizados os títulos SEO e meta descrições das páginas comerciais principais.
+- Conferidos/padronizados os links canônicos das 15 páginas.
+- Sincronizados títulos, descrições e URLs Open Graph.
+- Adicionada marcação estruturada ProfessionalService na página inicial, sem inventar endereço ou telefone.
+- Inseridos ALT descritivos de fallback em imagens sem ALT; imagens de seções abaixo do banner com lazy loading quando aplicável.
+- Corrigida referência de imagem inexistente no banner da Home: hero-impulsolar.webp -> hero-marketing.webp.
+- Regerados sitemap.xml e robots.txt para o domínio fabiafialho.site.
+- Preservados conteúdo, páginas, CNAME, formulário, scripts e links existentes.
+
+PESQUISA DE PALAVRAS-CHAVE
+- criação de sites: 5.000 buscas médias/mês
+- gestão de tráfego pago: 5.000 buscas médias/mês
+- agência de marketing digital: 5.000 buscas médias/mês
+- SEO para pequenas empresas: 500 buscas médias/mês
+- automação de atendimento WhatsApp: 50 buscas médias/mês
+A coluna concorrência do Planejador refere-se a anúncios, não à dificuldade de SEO orgânico.
+
+AINDA PRECISA SER FEITO FORA DO ZIP
+1. Publicar os arquivos na raiz do repositório GitHub Pages e confirmar que o domínio está funcionando.
+2. Enviar https://fabiafialho.site/sitemap.xml ao Search Console e verificar indexação das páginas.
+3. Configurar Google Analytics 4 com seu Measurement ID real e testar eventos; não foi inventado um ID.
+4. Testar velocidade e dados estruturados na URL publicada após deploy.
+5. Revisar manualmente ALT de imagens e textos de cada serviço para refletirem precisamente o conteúdo.
+6. Confirmar telefone, contato, endereço (se houver) e dados empresariais antes de adicionar schema LocalBusiness.
+
+OBS.: Não há garantia de ranking, indexação ou geração de contatos.
